@@ -48,7 +48,7 @@
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
 ```dart
-// My personal tools organized
+// My tools organized
 
 class About extends Me { 
   const myTools = {  
